@@ -1,12 +1,38 @@
-Supreme-Bot-Issues
-==================
+Supreme-Bot
+===========
 
-Issue tracker for SupremeAutoCheckout. Please track all issues here and they will be responded to and taken care of.
+How-to guide for using the Supreme Bot. Here you will find all information that you will need. Please also submit all and any issues you have for the the program. It is the best and fastest way to get an issue/feature resolved. Issues can be anything from bugs to feature requests to simple questions. Don't hesitate to submit one. 
 
-Issues can be anything from bugs to feature requests to simple questions. Don't hesitate to submit one. 
+If you have any problems that are not explained here, read the [FAQ](FAQ.md) before contacting me. 
 
-Adding An Issue
-===============
+Installing The Extension
+========================
+
+1. Make sure Google Chrome is downloaded
+2. If you are not signed in to Chrome, do so now
+3. Navigate to "chrome://extensions"
+4. Enable developer mode (check box on top right)
+5. Drag and drop the .crx file onto that page
+
+Set-up
+======
+
+1. Navigate to "chrome://extensions"
+2. Find the Supreme Auto-Checkout extension and click "Options"
+3. Fill out all address/billing/sizing information
+4. Click "Save"
+
+Usage
+=====
+
+1. When ready to buy an item, click on the Supreme icon in the toolbar
+2. Click "Enable Bot" (this will bring you to the Supreme store)
+3. Refresh as necessary (DON'T LEAVE THIS PAGE)
+4. Click on the item you'd like to purchase (MAKE SURE YOU PICK THE CORRECT COLOR)
+5. Let the bot do the rest
+
+Submitting An Issue
+===================
 
 1. Sign into Github (or create an account)
 2. Click on "Issues" on the right hand side bar
@@ -17,9 +43,15 @@ Adding An Issue
 
 
 Example Issue
-=============
+-------------
 
 >**Title:** Supreme Bot not checking out     
 >**Description:** When I click an item, it adds it to my cart but doesn't check out.     
 >**Label(s):** "bug"     
+
+
+Disclaimer
+==========
+
+I am NOT responsible for any mispurchases, lack of purchases, or anything else that goes wrong. This bot is a tool, not a guarentee that you will successfully purchase anything. Refunds will not be issued. Use at your own risk. 
 
