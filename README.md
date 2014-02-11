@@ -3,6 +3,8 @@ Supreme-Bot-Issues
 
 Issue tracker for SupremeAutoCheckout. Please track all issues here and they will be responded to and taken care of.
 
+Issues can be anything from bugs to feature requests to simple questions. Don't hesitate to submit one. 
+
 Adding An Issue
 ===============
 
