@@ -16,3 +16,10 @@ Adding An Issue
 6. Submit issue
 
 
+Example Issue
+=============
+
+>**Title:** Supreme Bot not checking out     
+>**Description:** When I click an item, it adds it to my cart but doesn't check out.     
+>**Label(s):** "bug"     
+
