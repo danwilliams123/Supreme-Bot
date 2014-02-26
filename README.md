@@ -5,14 +5,29 @@ How-to guide for using the Supreme Bot. Here you will find all information that 
 
 If you have any problems that are not explained here, read the [FAQ](FAQ.md) before contacting me. 
 
+NOTE!!!!!!
+==========
+
+WWW.SUPREMENEWYORK.COM HAS NOT BEEN RELEASED AND THUS I HAVE NOT SEEN IT. THERE IS A CHANCE THAT THE BOT MAY NOT WORK FOR THE FIRST WEEK. NO REFUNDS WILL BE GIVEN IF IT DOES NOT WORK THIS WEEK. IT WILL BE UPDATED ACCORDINGLY, AND CONTINUE TO FUNCTION THERE ON OUT. THANK YOU
+
 Installing The Extension
 ========================
 
 1. Make sure Google Chrome is downloaded
 2. If you are not signed in to Chrome, do so now
 3. Navigate to "chrome://extensions"
-4. Enable developer mode (check box on top right)
-5. Drag and drop the .crx file onto that page
+4. Download the .crx file that I sent you
+5. Find it in Finder/File Explorer (typically your Downloads folder)
+6. Enable developer mode (check box on top right)
+7. Drag and drop the .crx file from the folder, onto that page
+
+Updating The Extension
+========================
+
+1. Navigate to "chrome://extensions"
+2. Click on the trash icon next to the installed extension
+3. Download the NEW .crx file that I sent you
+4. Do steps 5-7 from above to reinstall
 
 Set-up
 ======
