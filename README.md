@@ -44,7 +44,7 @@ Usage
 2. Click "Enable Bot" (this will bring you to the Supreme store)
 3. Refresh as necessary (DON'T LEAVE THIS PAGE)
 4. Click on the item you'd like to purchase (MAKE SURE YOU PICK THE CORRECT COLOR)
-5. Let the bot do the rest
+5. Let the bot do the rest (NOTE: IT WILL PURCHASE THE ITEM FOR YOU)
 
 Submitting An Issue
 ===================
