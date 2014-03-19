@@ -1,16 +1,11 @@
 Supreme-Bot
 ===========
 
-Note: This page is for customers only. If you wish to buy a bot, email me.
+**Note: This page is for customers only. If you wish to buy a bot, email me.**
 
 How-to guide for using the Supreme Bot. Here you will find all information that you will need. Please also submit all and any issues you have for the the program. It is the best and fastest way to get an issue/feature resolved. Issues can be anything from bugs to feature requests to simple questions. Don't hesitate to submit one. 
 
 If you have any problems that are not explained here, read the [FAQ](FAQ.md) before contacting me. 
-
-NOTE!!!!!!
-==========
-
-WWW.SUPREMENEWYORK.COM HAS NOT BEEN RELEASED AND THUS I HAVE NOT SEEN IT. THERE IS A CHANCE THAT THE BOT MAY NOT WORK FOR THE FIRST WEEK. NO REFUNDS WILL BE GIVEN IF IT DOES NOT WORK THIS WEEK. IT WILL BE UPDATED ACCORDINGLY, AND CONTINUE TO FUNCTION THERE ON OUT. THANK YOU
 
 Installing The Extension
 ========================
