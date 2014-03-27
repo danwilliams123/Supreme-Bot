@@ -13,35 +13,29 @@ Installing The Extension
 1. Make sure Google Chrome is downloaded
 2. If you are not signed in to Chrome, do so now
 3. Navigate to "chrome://extensions"
-4. Download the .crx file that I sent you
-5. Find it in Finder/File Explorer (typically your Downloads folder)
-6. Enable developer mode (check box on top right)
-7. Drag and drop the .crx file from the folder, onto that page
-
-Updating The Extension
-========================
-
-1. Navigate to "chrome://extensions"
-2. Click on the trash icon next to the installed extension
-3. Download the NEW .crx file that I sent you
-4. Do steps 5-7 from above to reinstall
+4. Enable developer mode (check box on top right)
+5. Drag and drop the .crx file onto that page
 
 Set-up
 ======
 
-1. Navigate to "chrome://extensions"
-2. Find the Supreme Auto-Checkout extension and click "Options"
-3. Fill out all address/billing/sizing information
-4. Click "Save"
+1. Click on Supreme icon in the Chrome toolbar
+2. Choose whether or not you want to enable Auto Add to Cart and/or Auto Checkout
+3. Click Save
+4. Click on the Supreme icon in the Chrome toolbar again
+5. Click on the "Supreme AutoCheckout" top logo
+6. Fill out all address/billing/sizing information
+7. Click "Save"
 
 Usage
 =====
 
-1. When ready to buy an item, click on the Supreme icon in the toolbar
-2. Click "Enable Bot" (this will bring you to the Supreme store)
-3. Refresh as necessary (DON'T LEAVE THIS PAGE)
-4. Click on the item you'd like to purchase (MAKE SURE YOU PICK THE CORRECT COLOR)
-5. Let the bot do the rest (NOTE: IT WILL PURCHASE THE ITEM FOR YOU)
+1. Navigate to www.supremenewyork.com/shop/all
+2. Refresh as necessary
+3. Click on the item you'd like to purchase
+4. The bot will add it to your cart (if you enabled that in the options menu)
+5. The bot will autofill the checkout form
+6. The bot will checkout (if you enabled that in the options menu)
 
 Submitting An Issue
 ===================
