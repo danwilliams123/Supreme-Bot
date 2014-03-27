@@ -18,7 +18,7 @@ This is a problem with Chrome on your end. Do the following...
 
 #### Can I buy multiple items while using the bot?
 
-If you add items to your cart before enabling the bot, yes you can. If you don't do this, then no you can't. Once you enable the bot, you can only add one item to your cart and it will check you out. 
+If you add items to your cart before enabling the bot, yes you can. In addition, you can disable Auto Checkout and when you add an item, keep shopping and then you'll have to eventually hit process payment when you're done. 
 
 
 #### How do I buy the same item X times?
