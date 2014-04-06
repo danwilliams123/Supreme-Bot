@@ -1,7 +1,7 @@
 Supreme-Bot
 ===========
 
-**Note: This page is for customers only. If you wish to buy a bot, email me.**
+**Note: This page is for customers only. If you wish to buy a bot, email supremeautocheckout@gmail.com**
 
 How-to guide for using the Supreme Bot. Here you will find all information that you will need. Please also submit all and any issues you have for the the program. It is the best and fastest way to get an issue/feature resolved. Issues can be anything from bugs to feature requests to simple questions. Don't hesitate to submit one. 
 
